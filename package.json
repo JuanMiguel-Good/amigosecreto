@@ -3,10 +3,10 @@
   "private": true,
   "version": "0.0.0",
   "description": "Aplicación web para sortear amigos secretos de forma aleatoria",
-  "homepage": "https://tu-usuario.github.io/amigo-secreto",
+  "homepage": "https://JuanMiguel-Good.github.io/amigosecreto",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tu-usuario/amigo-secreto.git"
+    "url": "https://github.com/JuanMiguel-Good/amigosecreto.git"
   },
   "keywords": [
     "amigo-secreto",
@@ -16,10 +16,10 @@
     "juegos",
     "intercambio-regalos"
   ],
-  "author": "Tu Nombre <tu-email@ejemplo.com>",
+  "author": "Juan Miguel <juan.miguel@ejemplo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tu-usuario/amigo-secreto/issues"
+    "url": "https://github.com/JuanMiguel-Good/amigosecreto/issues"
   },
   "type": "module",
   "scripts": {
